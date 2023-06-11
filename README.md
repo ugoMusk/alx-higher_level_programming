@@ -1,6 +1,6 @@
 # Higher Level Programming
 
-## Acknowledgements :pray:
+## :pray: Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for
 ALX Africa SE. ALX Africa is an online full-stack software
