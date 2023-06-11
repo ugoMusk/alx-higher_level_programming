@@ -18,6 +18,4 @@ using project-based peer learning. For more information, visit
 | -------- | ----------- | 
 | [0x00-python-hello_world](0x00-python-hello_world) | Getting started with python. Plus technical interview preparation | 
 | [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | Introduction to if/else statements, loops and functions | 
-| [0x02-python-import_modules](0x02-python-import_modules) | Modules and imports |
-| [0x02-python-import_modules](0x02-python-import
-_modules) | All about the usage and functionalityof modules and imports |
+| [0x02-python-import_modules](0x02-python-import_modules) | Modules and imports | new column | new row |
