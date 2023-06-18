@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module contains  a function that converts and writes a python object to a file in JSON format"""
+"""This module contains object_to_json fuction"""
 import json
 
 
