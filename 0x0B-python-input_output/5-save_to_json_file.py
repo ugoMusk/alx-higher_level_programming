@@ -12,6 +12,7 @@ def save_to_json_file(my_obj, filename):
         filename: textfile name
 
     raise:
-    Exception: incase file can not be opened """
+    Exception: incase file can not be opened
+    """
     with open(filename, 'w', encoding="utf-8") as f:
         json.dump(my_obj, f)
