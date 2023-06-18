@@ -2,7 +2,7 @@
 
 This project deals on I/O in Python3
 
-I explored rhe various concepts involved in file handling with th Python ecosystem. I used a few of python's builtin keywords and functions such as with, open, read alongside l the json module to read and write files and serialize(encode) and deserialize(decode) python objects to JSON and vice versa.
+I explored the various concepts involved in file handling within the Python ecosystem. I used a few of python's builtin mechanisms and functions such as with, open, read along side the json module to read and write files, serialize(encode) and deserialize(decode) python objects to JSON and vice versa.
 
 ## File Descriptions
 
