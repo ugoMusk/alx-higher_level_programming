@@ -1,7 +1,8 @@
 #!/usr/bin/node
-'use strict';
-let x = process.argv[2];
-if (isNaN(x)) {
+
+const x = process.argv[2];
+
+if (!parseInt(x)) {
   console.log('Missing number of occurrences');
 } else {
   for (let i = 0; i < x; i++) {
