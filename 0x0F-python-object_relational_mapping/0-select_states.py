@@ -9,7 +9,8 @@ from sys import argv
 
 if __name__ == '__main__':
     """
-    Create database connection and get data from the states table in the database.
+    Create database connection and get data
+    from the states table in the database.
     """
     db_connect = MySQLdb.connect(
         host="localhost", user=argv[1], port=3306, passwd=argv[2], db=argv[3])
